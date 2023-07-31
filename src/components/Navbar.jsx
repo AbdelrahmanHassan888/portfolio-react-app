@@ -9,7 +9,7 @@ import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/logo.jpeg';
 import { Link } from 'react-scroll';
-import pdf from '../assets/pdf.pdf'
+import pdf from '../assets/AH.pdf'
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -117,7 +117,9 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href="abdelrahmanhassanmahmoud888@gmail.com"
+              href="abdelrahamanhassan01@gmail.com
+
+"
             >
               Email <HiOutlineMail size={30} />
             </a>
