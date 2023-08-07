@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio-react-app/static/css/main.b52e4a53.css",
-    "main.js": "/portfolio-react-app/static/js/main.91f51303.js",
+    "main.js": "/portfolio-react-app/static/js/main.058ff66e.js",
     "static/media/netflix.jpeg": "/portfolio-react-app/static/media/netflix.0acf8c808985e95c2784.jpeg",
     "static/media/foodie.png": "/portfolio-react-app/static/media/foodie.807bee07d3dff488f06a.png",
-    "static/media/fitness.png": "/portfolio-react-app/static/media/fitness.582c45ce1498dd29f4a8.png",
     "static/media/youtubeimg.png": "/portfolio-react-app/static/media/youtubeimg.dd2035043d92687fa36e.png",
     "static/media/shopping.png": "/portfolio-react-app/static/media/shopping.59d185750bf4677f0f9c.png",
     "static/media/Glist.png": "/portfolio-react-app/static/media/Glist.fce41a1208aa1742eb52.png",
@@ -21,10 +20,10 @@
     "static/media/javascript.png": "/portfolio-react-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-react-app/index.html",
     "main.b52e4a53.css.map": "/portfolio-react-app/static/css/main.b52e4a53.css.map",
-    "main.91f51303.js.map": "/portfolio-react-app/static/js/main.91f51303.js.map"
+    "main.058ff66e.js.map": "/portfolio-react-app/static/js/main.058ff66e.js.map"
   },
   "entrypoints": [
     "static/css/main.b52e4a53.css",
-    "static/js/main.91f51303.js"
+    "static/js/main.058ff66e.js"
   ]
 }
