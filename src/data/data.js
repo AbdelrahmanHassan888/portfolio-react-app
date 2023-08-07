@@ -1,7 +1,6 @@
 import netflix from '../assets/projects/netflix.jpeg'
 import foodie from '../assets/projects/foodie.png'
 import shopping from '../assets/projects/shopping.png'
-import fitness from '../assets/projects/fitness.png'
 import Glist from '../assets/projects/Glist.png'
 import youtube from '../assets/projects/youtubeimg.png'
 import todoo from '../assets/projects/todoo.png'
@@ -29,13 +28,7 @@ export const data=[
         github:"https://github.com/AbdelrahmanHassan888/shopping-react",
         live:"https://abdelrahmanhassan888.github.io/shopping-react/",
     },
-        {
-        id:4,
-        name:"Fitness App",
-        image:fitness,
-        github:"https://github.com/AbdelrahmanHassan888/FitLife",
-        live:"https://abdelrahmanhassan888.github.io/FitLife/",
-    },
+
           {
         id:5,
         name:"Grocery List App",
